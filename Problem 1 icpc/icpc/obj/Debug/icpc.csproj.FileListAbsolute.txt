@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\icpc\icpc\bin\Debug\icpc.exe.config
+C:\Users\user\source\repos\icpc\icpc\bin\Debug\icpc.exe
+C:\Users\user\source\repos\icpc\icpc\bin\Debug\icpc.pdb
+C:\Users\user\source\repos\icpc\icpc\obj\Debug\icpc.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\icpc\icpc\obj\Debug\icpc.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\icpc\icpc\obj\Debug\icpc.exe
+C:\Users\user\source\repos\icpc\icpc\obj\Debug\icpc.pdb
+C:\Users\user\source\repos\icpc problems\icpc\icpc\bin\Debug\icpc.exe.config
+C:\Users\user\source\repos\icpc problems\icpc\icpc\bin\Debug\icpc.exe
+C:\Users\user\source\repos\icpc problems\icpc\icpc\bin\Debug\icpc.pdb
+C:\Users\user\source\repos\icpc problems\icpc\icpc\obj\Debug\icpc.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\icpc problems\icpc\icpc\obj\Debug\icpc.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\icpc problems\icpc\icpc\obj\Debug\icpc.exe
+C:\Users\user\source\repos\icpc problems\icpc\icpc\obj\Debug\icpc.pdb

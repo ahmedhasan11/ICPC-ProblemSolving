@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Problem 3 icpc\Problem 3 icpc\bin\Debug\Problem 3 icpc.exe.config
+C:\Users\user\source\repos\Problem 3 icpc\Problem 3 icpc\bin\Debug\Problem 3 icpc.exe
+C:\Users\user\source\repos\Problem 3 icpc\Problem 3 icpc\bin\Debug\Problem 3 icpc.pdb
+C:\Users\user\source\repos\Problem 3 icpc\Problem 3 icpc\obj\Debug\Problem 3 icpc.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Problem 3 icpc\Problem 3 icpc\obj\Debug\Problem 3 icpc.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Problem 3 icpc\Problem 3 icpc\obj\Debug\Problem 3 icpc.exe
+C:\Users\user\source\repos\Problem 3 icpc\Problem 3 icpc\obj\Debug\Problem 3 icpc.pdb
